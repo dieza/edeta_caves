@@ -1,0 +1,443 @@
+gmd:MD_Metadata
+gmd:fileIdentifier
+gco:CharacterString: spaignMDT05
+gmd:language
+gmd:LanguageCode: Español
+gmd:characterSet
+gmd:MD_CharacterSetCode: utf8
+gmd:hierarchyLevel
+gmd:MD_ScopeCode: Conjunto de datos
+gmd:contact
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Infraestructura de Datos Espaciales de España (IDEE)
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Spanish Spatial Data Infrastructure (IDEE)
+gmd:contactInfo
+gmd:CI_Contact
+gmd:address
+gmd:CI_Address
+gmd:deliveryPoint
+gco:CharacterString: C/ General Ibáñez de Ibero, 3
+gmd:city
+gco:CharacterString: Madrid
+gmd:postalCode
+gco:CharacterString: 28003
+gmd:country
+gco:CharacterString: España
+gmd:electronicMailAddress
+gco:CharacterString: ign@mitma.es
+gmd:onlineResource
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://www.idee.es
+gmd:role
+gmd:CI_RoleCode: Punto de contacto
+gmd:dateStamp
+gco:Date: 2022-11-14
+gmd:metadataStandardName
+gco:CharacterString: Reglamento (CE) Nº 1205/2008 de INSPIRE
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: INSPIRE Regulation Nº1205/2008
+gmd:metadataStandardVersion
+gco:CharacterString: TG 2.0
+gmd:locale
+gmd:PT_Locale
+gmd:characterEncoding
+gmd:MD_CharacterSetCode: UTF-8
+gmd:spatialRepresentationInfo
+gmd:MD_GridSpatialRepresentation
+gmd:numberOfDimensions
+gco:Integer: 2
+gmd:cellGeometry
+gmd:MD_CellGeometryCode: area
+gmd:transformationParameterAvailability
+gco:Boolean: false
+gmd:referenceSystemInfo
+gmd:MD_ReferenceSystem
+gmd:referenceSystemIdentifier
+gmd:RS_Identifier
+gmd:code
+gmx:Anchor: ETRS89 UTM huso 30 extendido en la Península, Illes Balears, Ceuta y Melilla.
+gmd:referenceSystemInfo
+gmd:MD_ReferenceSystem
+gmd:referenceSystemIdentifier
+gmd:RS_Identifier
+gmd:code
+gmx:Anchor: REGCAN95 UTM huso 28 en las Islas Canarias.
+gmd:identificationInfo
+gmd:MD_DataIdentification
+gmd:citation
+gmd:CI_Citation
+gmd:title
+gco:CharacterString: Modelo Digital del Terreno con paso de malla de 5 metros (MDT05) de España
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Digital Terrain Model - DTM05 of Spain
+gmd:alternateTitle
+gco:CharacterString: MDT05
+gmd:date
+gmd:CI_Date
+gmd:date
+gco:Date: 2009-12-30
+gmd:dateType
+gmd:CI_DateTypeCode: Creación
+gmd:identifier
+gmd:RS_Identifier
+gmd:code
+gco:CharacterString: MDT05
+gmd:codeSpace
+gco:CharacterString: IGN
+gmd:identifier
+gmd:RS_Identifier
+gmd:code
+gco:CharacterString: EL.SpotElevation
+gmd:codeSpace
+gco:CharacterString: IGN
+gmd:identifier
+gmd:RS_Identifier
+gmd:code
+gco:CharacterString: EL.ContourLine
+gmd:codeSpace
+gco:CharacterString: IGN
+gmd:identifier
+gmd:RS_Identifier
+gmd:code
+gco:CharacterString: EL.GridCoverage
+gmd:codeSpace
+gco:CharacterString: IGN
+gmd:presentationForm
+gmd:CI_PresentationFormCode: modelDigital
+gmd:abstract
+gco:CharacterString: Modelo digital del terreno realizado a partir de las nubes de puntos LIDAR de la primera Cobertura con un paso de malla de 5 metros.
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Digital terrain model made from the LIDAR point clouds of the first Cover with a mesh pitch of 5 meters.
+gmd:purpose
+gco:CharacterString: Son necesarios para generar las ortofotos del Proyecto PNOA y para tener un modelo digital de elevaciones homogéneo y preciso para todo el territorio español.
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: The DTMs are necessary to generate the orthophotos of the PNOA Project and to have a homogeneous and accurate digital elevation model for the whole Spanish territory.
+gmd:credit
+gco:CharacterString: Comunidades Autónomas
+gmd:credit
+gco:CharacterString: FEGA.
+gmd:credit
+gco:CharacterString: Sistema Cartográfico Nacional
+gmd:credit
+gco:CharacterString: Instituto Geográfico Nacional
+gmd:pointOfContact
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Instituto Geográfico Nacional
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: National Geographic Institute
+gmd:contactInfo
+gmd:CI_Contact
+gmd:address
+gmd:CI_Address
+gmd:electronicMailAddress
+gco:CharacterString: ign@mitma.es
+gmd:onlineResource
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://www.ign.es
+gmd:role
+gmd:CI_RoleCode: Punto de Contacto
+gmd:pointOfContact
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Centro Nacional de Información Geográfica (CNIG)
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Centro Nacional de Información Geográfica (CNIG)
+gmd:contactInfo
+gmd:CI_Contact
+gmd:address
+gmd:CI_Address
+gmd:electronicMailAddress
+gco:CharacterString: consulta@cnig.es
+gmd:onlineResource
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://www.cnig.es
+gmd:role
+gmd:CI_RoleCode: Publicador
+gmd:graphicOverview
+gmd:MD_BrowseGraphic
+gmd:fileName
+gco:CharacterString: https://www.ign.es/resources/img/metadata/CNIG_MDT.jpg
+gmd:descriptiveKeywords
+gmd:MD_Keywords
+gmd:keyword
+gmx:Anchor: Elevaciones
+gmd:type
+gmd:MD_KeywordTypeCode: theme
+gmd:thesaurusName
+gmd:CI_Citation
+gmd:title
+gmx:Anchor: GEMET - INSPIRE themes, version 1.0
+gmd:date
+gmd:CI_Date
+gmd:date
+gco:Date: 2008-06-01
+gmd:dateType
+gmd:CI_DateTypeCode: publication
+gmd:descriptiveKeywords
+gmd:MD_Keywords
+gmd:keyword
+gmx:Anchor: Nacional
+gmd:thesaurusName
+gmd:CI_Citation
+gmd:title
+gmx:Anchor: Ámbito Espacial
+gmd:date
+gmd:CI_Date
+gmd:date
+gco:Date: 2019-05-22
+gmd:dateType
+gmd:CI_DateTypeCode: Publicación
+gmd:descriptiveKeywords
+gmd:MD_Keywords
+gmd:keyword
+gco:CharacterString: Relieve
+gmd:descriptiveKeywords
+gmd:MD_Keywords
+gmd:keyword
+gco:CharacterString: Sistema Cartográfico Nacional
+gmd:descriptiveKeywords
+gmd:MD_Keywords
+gmd:keyword
+gco:CharacterString: SCNE
+gmd:resourceSpecificUsage
+gmd:MD_Usage
+gmd:specificUsage
+gco:CharacterString: Para estudios de zonas de inundación, para determinación de obstáculos en las rutas de aproximación de los aeropuertos, para la generación de las ortofotos del Proyecto PNOA
+gmd:userContactInfo
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Centro de Estudios y Experimentación de Obras Públicas
+gmd:contactInfo
+gmd:CI_Contact
+gmd:onlineResource
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: http://www.cedex.es
+gmd:role
+gmd:CI_RoleCode: Usuario
+gmd:userContactInfo
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Aeropuertos Españoles y Navegación Aérea
+gmd:contactInfo
+gmd:CI_Contact
+gmd:onlineResource
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: http://www.aena.es
+gmd:role
+gmd:CI_RoleCode: Usuario
+gmd:userContactInfo
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Instituto Geográfico Nacional
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: National Geographic Institute
+gmd:contactInfo
+gmd:CI_Contact
+gmd:address
+gmd:CI_Address
+gmd:electronicMailAddress
+gco:CharacterString: ign@mitma.es
+gmd:role
+gmd:CI_RoleCode: Usuario
+gmd:resourceConstraints
+gmd:MD_LegalConstraints
+gmd:otherConstraints
+gmx:Anchor: Sin limitaciones al acceso público.
+gmd:resourceConstraints
+gmd:MD_LegalConstraints
+gmd:otherConstraints
+gmx:Anchor: CC BY 4.0
+gmd:otherConstraints
+gco:CharacterString: http://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf
+gmd:spatialRepresentationType
+gmd:MD_SpatialRepresentationTypeCode: grid
+gmd:spatialResolution
+gmd:MD_Resolution
+gmd:distance
+gco:Distance: 5
+gmd:language
+gmd:LanguageCode: Español
+gmd:characterSet
+gmd:MD_CharacterSetCode: utf8
+gmd:topicCategory
+gmd:MD_TopicCategoryCode: elevation
+gmd:extent
+gmd:EX_Extent
+gmd:geographicElement
+gmd:EX_GeographicBoundingBox
+gmd:westBoundLongitude
+gco:Decimal: -19.00
+gmd:eastBoundLongitude
+gco:Decimal: 4.30
+gmd:southBoundLatitude
+gco:Decimal: 27.60
+gmd:northBoundLatitude
+gco:Decimal: 44.00
+gmd:verticalElement
+gmd:EX_VerticalExtent
+gmd:minimumValue
+gco:Real: -100
+gmd:maximumValue
+gco:Real: 3718
+gmd:supplementalInformation
+gco:CharacterString: https://centrodedescargas.cnig.es/CentroDescargas/documentos/MDT05_recursos.zip
+gmd:distributionInfo
+gmd:MD_Distribution
+gmd:distributionFormat
+gmd:MD_Format
+gmd:name
+gmx:Anchor: ASCII matriz ESRI (.asc)
+gmd:version
+gco:CharacterString: Desconocido
+gmd:specification
+gco:CharacterString: Hoja del MTN50
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Distribution by MTN50 sheets
+gmd:distributor
+gmd:MD_Distributor
+gmd:distributorContact
+gmd:CI_ResponsibleParty
+gmd:organisationName
+gco:CharacterString: Centro Nacional de Información Geográfica (CNIG)
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: National Centre of Geographic Information (CNIG)
+gmd:contactInfo
+gmd:CI_Contact
+gmd:address
+gmd:CI_Address
+gmd:electronicMailAddress
+gco:CharacterString: consulta@cnig.es
+gmd:role
+gmd:CI_RoleCode: distributor
+gmd:transferOptions
+gmd:MD_DigitalTransferOptions
+gmd:unitsOfDistribution
+gco:CharacterString: Hoja del MTN50.
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: MTN50 Sheets
+gmd:onLine
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://servicios.idee.es/wms-inspire/mdt?request=GetCapabilities&service=WMS&VERSION=1.3.0
+gmd:protocol
+gmx:Anchor: OGC Web Map Service
+gmd:applicationProfile
+gmx:Anchor: View Service
+gmd:name
+gco:CharacterString: Servicio de visualización WMS del MDT
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: View service (WMS) for DTM
+gmd:description
+gmx:Anchor: URL de Acceso
+gmd:onLine
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://servicios.idee.es/wmts/mdt?request=GetCapabilities&service=WMTS&VERSION=1.0.0
+gmd:protocol
+gmx:Anchor: OGC Web Map Tile Service
+gmd:applicationProfile
+gmx:Anchor: View Service
+gmd:name
+gco:CharacterString: Servicio de visualización WMTS del MDT
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: View service (WMTS) for DTM
+gmd:description
+gmx:Anchor: URL de Acceso
+gmd:onLine
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://servicios.idee.es/wcs-inspire/mdt?request=GetCapabilities&service=WCS&version=2.0.1
+gmd:protocol
+gmx:Anchor: OGC Web Coverage Service
+gmd:applicationProfile
+gmx:Anchor: Download Service
+gmd:name
+gco:CharacterString: Servicio de descarga WCS del MDT
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Download service (WCS) for DTM
+gmd:description
+gmx:Anchor: URL de Acceso
+gmd:onLine
+gmd:CI_OnlineResource
+gmd:linkage
+gmd:URL: https://centrodedescargas.cnig.es/CentroDescargas/busquedaSerie.do?codSerie=MDT05
+gmd:name
+gco:CharacterString: Centro de Descargas del CNIG
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: Download portal of CNIG
+gmd:description
+gmx:Anchor: URL de Acceso
+gmd:function
+gmd:CI_OnLineFunctionCode: Publicación
+gmd:dataQualityInfo
+gmd:DQ_DataQuality
+gmd:scope
+gmd:DQ_Scope
+gmd:level
+gmd:MD_ScopeCode: series
+gmd:report
+gmd:DQ_DomainConsistency
+gmd:result
+gmd:DQ_ConformanceResult
+gmd:specification
+gmd:CI_Citation
+gmd:title
+gmx:Anchor: Reglamento (UE) n o 1089/2010 de la Comisión de 23 de noviembre de 2010 por el que se aplica la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a la interoperabilidad de los conjuntos y los servicios de datos espaciales
+gmd:date
+gmd:CI_Date
+gmd:date
+gco:Date: 2014-12-31
+gmd:explanation
+gmx:Anchor: Conforme
+gmd:pass
+gco:Boolean: true
+gmd:report
+gmd:DQ_DomainConsistency
+gmd:result
+gmd:DQ_ConformanceResult
+gmd:specification
+gmd:CI_Citation
+gmd:title
+gmx:Anchor: REGLAMENTO (CE) Nº 1205/2008 DE LA COMISIÓN de 3 de diciembre de 2008 por el que se ejecuta la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a los metadatos
+gmd:date
+gmd:CI_Date
+gmd:date
+gco:Date: 2008-12-24
+gmd:explanation
+gmx:Anchor: Conforme
+gmd:pass
+gco:Boolean: true
+gmd:lineage
+gmd:LI_Lineage
+gmd:statement
+gco:CharacterString: Se han empleado nubes de puntos LiDAR, vuelo fotogramétrico, apoyo de campo y aerotriangulación para la generación de las fotografías aéreas y posteriormente técnicas de interpolación o correlación para la obtención del modelo digital de elevaciones. El MDT se ha obtenido por interpolación de modelos digitales del terreno de 5 m de paso de malla procedente de la interpolación a partir de la clase terreno de vuelos LIDAR del PNOA, a excepción de las hojas de Andorra, Ceuta, Melilla, Isla de Alborán y Gibraltar (183-2, 1110-3, 1111-3, 1078B, 1078-2) obtenidas por estereocorrelación automática de vuelos fotogramétricos del Plan Nacional de Ortofotografía Aérea (PNOA). Sobre las superficies de agua el LIDAR proporciona muy pocos puntos debido a que el haz de energía retorna al sensor de manera parcial, dando lugar a vacíos de información. Estas zonas son interpoladas y editadas para asignar una cota constante, por lo tanto, la fiabilidad de estas zonas es baja.
+gmd:PT_FreeText
+gmd:textGroup
+gmd:LocalisedCharacterString: The DTM has been obtained by interpolation of digital terrain models of 5 m grid pitch from the interpolation from the terrain class of LIDAR flights of the PNOA, with the exception of the sheets of Andorra, Ceuta, Melilla, Isla de Alborán and Gibraltar (183-2, 1110-3, 1111-3, 1078B, 1078-2) obtained by automatic stereocorrelation of photogrammetric flights of the National Aerial Orthophotography Plan (PNOA).
+gmd:source
+gmd:LI_Source
+gmd:description
+gco:CharacterString: Plan Nacional de Ortofotografía Aérea (PNOA)
