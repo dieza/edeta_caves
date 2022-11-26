@@ -6,6 +6,6 @@ Upper Left  (  680000.000, 4403000.000) \
 Lower Left  (  680000.000, 4375000.000) \
 Upper Right (  718000.000, 4403000.000) \
 Lower Right (  718000.000, 4375000.000) \
-Center      (  699000.000, 4389000.000) \
+Center      (  699000.000, 4389000.000)  
 
 The DTM is fed to our [R script] (code/smez.R).
