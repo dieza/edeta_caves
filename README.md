@@ -9,3 +9,5 @@ Lower Right (  718000.000, 4375000.000) \
 Center      (  699000.000, 4389000.000)  
 
 The DTM is fed to our [R script] (code/smez.R) along with the [archaeological data of sites] (data/smez.gpkg) in the territory of Edeta.
+
+[![DOI](https://zenodo.org/badge/568890774.svg)](https://zenodo.org/badge/latestdoi/568890774)
