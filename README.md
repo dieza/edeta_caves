@@ -28,14 +28,14 @@ Supplementary Material 1: Table with alternative paths to Cueva Merinel. Ls: Llo
 
 Supplementary Material 2: Table with alternative paths to Cueva del Sapo. Ls: Llobera and Sluckin; Ug: Uriarte; ree: relative energetic expenditure cost function; hrz: Hezorg’s metabolic cost function; vl: Van Leusen’s metabolic cost function; p: Pandolf et al.’s metabolic energy expenditure cost function; icofp: Irmischer-Clarke’s hiking function (male, off-path); alb: Alberti (see Alberti 2019: 4).
 
-Two maps referenced in the text like sup 3
-[sup3](https://github.com/dieza/edeta_caves/blob/main/data/SupplementaryMaterial_3_Map_BoundariesOppida.jpeg)
+Two maps referenced in the text like 
+[sup 3](https://github.com/dieza/edeta_caves/blob/main/data/SupplementaryMaterial_3_Map_BoundariesOppida.jpeg)
 
 Supplementary material 3: Possible boundaries between each oppida territory, applying the Ardigo et al. (2003) algorithm, as implemented in the Movecost package (Alberti, 2019). The red symbols represent Sapo -south one- and Merinel caves. The green dots represent the location of the main oppida neighbours of Edeta -E-. A=Arse, C=Carència, CMC=Castellar de Meca, CV=Cerro Viejo, IK=Ikalesken, K=Kelin, SA=SAITI, SU=Sucro. The numbers express the area of each oppidum in Km2.
 
 
-and sup 4
-[sup4](https://github.com/dieza/edeta_caves/blob/main/data/SupplementaryMaterial_4_Map_Road%20network.jpg)
+and 
+[sup 4](https://github.com/dieza/edeta_caves/blob/main/data/SupplementaryMaterial_4_Map_Road%20network.jpg)
 
 Supplementary material 4: Map of Edeta’s road network (white) and transhumant historical cattle pathways of different width (green: 75,22 m; brown: 37,61 m; orange: 20,89 m; yellow: variable).
 
